@@ -1,0 +1,2 @@
+# CommonChineseCharacter
+游戏开发中的常用汉字字库，包括3500常用字和7000常用字
